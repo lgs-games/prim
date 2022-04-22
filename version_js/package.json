@@ -45,7 +45,7 @@
   "devDependencies": {
     "@electron/remote": "^1.2.0",
     "@types/expect": "^24.3.0",
-    "@types/mocha": "^8.2.2",
+    "@types/mocha": "^9.1.1",
     "electron": "^12.0.13",
     "electron-builder": "^22.11.7",
     "mocha": "^9.0.2",
